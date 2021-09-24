@@ -12,3 +12,5 @@ func TestMedia(t *testing.T){
 		t.Errorf(erroPadrao, valorEsperado, valor)
 	}
 }
+
+// o teste tem que ter _test no final do nome e a função deve ter Test"algumaCoisa"
